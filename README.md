@@ -26,8 +26,8 @@ limitations under the License.
 
 ## Installation
 
-``` bash
-$ npm install @stdlib/utils-identity-function
+```bash
+npm install @stdlib/utils-identity-function
 ```
 
 </section>
