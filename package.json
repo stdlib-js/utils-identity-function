@@ -63,5 +63,9 @@
     "identity",
     "function",
     "fn"
-  ]
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
 }
