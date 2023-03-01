@@ -105,7 +105,7 @@ v = identity();
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils/constant-function`][@stdlib/utils/constant-function]</span><span class="delimiter">: </span><span class="description">constant function.</span>
+-   <span class="package-name">[`@stdlib/utils-constant-function`][@stdlib/utils/constant-function]</span><span class="delimiter">: </span><span class="description">constant function.</span>
 
 </section>
 
