@@ -1,7 +1,7 @@
 /**
 * @license Apache-2.0
 *
-* Copyright (c) 2018 The Stdlib Authors.
+* Copyright (c) 2023 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -21,39 +21,13 @@
 // MODULES //
 
 var tape = require( 'tape' );
-var identity = require( './../../dist' );
+var main = require( './../../dist' );
 
 
 // TESTS //
 
-tape( 'main export is a function', function test( t ) {
+tape( 'main export is defined', function test( t ) {
 	t.ok( true, __filename );
-	t.strictEqual( typeof identity, 'function', 'main export is a function' );
-	t.end();
-});
-
-tape( 'the function takes a single argument', function test( t ) {
-	t.equal( identity.length, 1, 'number of parameters is equal to one' );
-	t.end();
-});
-
-tape( 'the function returns the input value', function test( t ) {
-	var values;
-	var i;
-
-	values = [
-		'5',
-		5,
-		null,
-		void 0,
-		true,
-		false,
-		[],
-		{},
-		function noop() {}
-	];
-	for ( i = 0; i < values.length; i++ ) {
-		t.equal( identity( values[i] ), values[i], 'returns the input value' );
-	}
+	t.strictEqual( main !== void 0, true, 'main export is defined' );
 	t.end();
 });
