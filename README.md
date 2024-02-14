@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import identity from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-identity-function@deno/mod.js';
+import identity from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-identity-function@v0.2.0-deno/mod.js';
 ```
 
 #### identity( x )
@@ -70,7 +70,7 @@ var bool = ( input === output );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import identity from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-identity-function@deno/mod.js';
+import identity from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-identity-function@v0.2.0-deno/mod.js';
 
 var v = identity( 3.14 );
 // returns 3.14
