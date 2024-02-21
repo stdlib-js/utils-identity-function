@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import identity from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-identity-function@esm/index.mjs';
+import identity from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-identity-function@v0.2.1-esm/index.mjs';
 ```
 
 #### identity( x )
@@ -75,7 +75,7 @@ var bool = ( input === output );
 <body>
 <script type="module">
 
-import identity from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-identity-function@esm/index.mjs';
+import identity from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-identity-function@v0.2.1-esm/index.mjs';
 
 var v = identity( 3.14 );
 // returns 3.14
