@@ -2,6 +2,16 @@
 
 > Package changelog.
 
+<section class="release" id="v0.2.2">
+
+## 0.2.2 (2024-07-25)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.1">
 
 ## 0.2.1 (2024-02-21)
@@ -177,76 +187,6 @@ No changes reported for this release.
 <section class="release" id="v0.0.1">
 
 ## 0.0.1 (2021-06-13)
-
-No changes reported for this release.
-
-</section>
-
-<!-- /.release -->
-
-<section class="release" id="v0.0.1-alpha.6">
-
-## 0.0.1-alpha.6 (2021-06-09)
-
-No changes reported for this release.
-
-</section>
-
-<!-- /.release -->
-
-<section class="release" id="v0.0.1-alpha.5">
-
-## 0.0.1-alpha.5 (2021-06-08)
-
-No changes reported for this release.
-
-</section>
-
-<!-- /.release -->
-
-<section class="release" id="v0.0.1-alpha.4">
-
-## 0.0.1-alpha.4 (2021-06-04)
-
-No changes reported for this release.
-
-</section>
-
-<!-- /.release -->
-
-<section class="release" id="v0.0.1-alpha.3">
-
-## 0.0.1-alpha.3 (2021-06-03)
-
-No changes reported for this release.
-
-</section>
-
-<!-- /.release -->
-
-<section class="release" id="v0.0.1-alpha.2">
-
-## 0.0.1-alpha.2 (2021-06-02)
-
-No changes reported for this release.
-
-</section>
-
-<!-- /.release -->
-
-<section class="release" id="v0.0.1-alpha.1">
-
-## 0.0.1-alpha.1 (2021-06-02)
-
-No changes reported for this release.
-
-</section>
-
-<!-- /.release -->
-
-<section class="release" id="v0.0.1-alpha.0">
-
-## 0.0.1-alpha.0 (2021-06-02)
 
 No changes reported for this release.
 
